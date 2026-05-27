@@ -1,6 +1,12 @@
-# stayfocusintern
+# Stay Focused
 
-A new Flutter project.
+An app-blocking Flutter application designed to help you minimize distractions and stay focused.
+
+## Features
+
+- Block distracting Android applications.
+- Utilizes Android Accessibility Services to reliably detect and block apps.
+- Manage blocked apps list and app permissions locally.
 
 ## Getting Started
 
