@@ -8,6 +8,12 @@ An app-blocking Flutter application designed to help you minimize distractions a
 - Utilizes Android Accessibility Services to reliably detect and block apps.
 - Manage blocked apps list and app permissions locally.
 
+## Technologies Used
+
+- Flutter
+- Dart
+- Android Native Channels
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
